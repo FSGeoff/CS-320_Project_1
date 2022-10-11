@@ -1,0 +1,3 @@
+/Users/geoffreynix/CLionProjects/AbstractClass/cmake-build-debug/CMakeFiles/AbstractClass.dir
+/Users/geoffreynix/CLionProjects/AbstractClass/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/geoffreynix/CLionProjects/AbstractClass/cmake-build-debug/CMakeFiles/rebuild_cache.dir

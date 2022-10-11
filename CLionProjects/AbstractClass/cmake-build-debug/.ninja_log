@@ -1,0 +1,7 @@
+# ninja log v5
+1	681	1665449633014899434	CMakeFiles/AbstractClass.dir/EmployeePerson.cpp.o	f668ee3b09d4a56c
+0	721	1665449633058016408	CMakeFiles/AbstractClass.dir/main.cpp.o	81fc62c612e36696
+2	721	1665449633058390991	CMakeFiles/AbstractClass.dir/EmployeeStaff.cpp.o	abe04dc5c016b267
+2	721	1665449633058241491	CMakeFiles/AbstractClass.dir/EmployeeManager.cpp.o	f83a97ec529b696d
+1	754	1665454773004471451	CMakeFiles/AbstractClass.dir/EmployeePerson.cpp.o	f668ee3b09d4a56c
+754	842	1665454773097674627	AbstractClass	67cef7eaf7a06498
